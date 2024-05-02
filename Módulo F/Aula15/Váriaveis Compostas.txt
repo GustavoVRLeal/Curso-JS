@@ -1,0 +1,27 @@
+Diferença entre Variavel simples e composta:
+
+ Variavel simples: Conseguem armazenar um valor por vez.
+
+ Variavel composta: São capazes de armazenar vários valores em uma só estrutura.
+
+===============================================================================================
+
+Array(vetor):
+
+ O vetor é composto por elementos que agrupa o espaço da memória, o valor e o índice.
+
+ índice(chave) - conteúdo(valor)
+
+ let num = [5, 8, 4]
+
+ Adicionando um elemento no vetor: num[3] = 6
+
+ Outro método é: num.push(7) - automaticamente o JavaScript vai entender que é pra criar uma
+ nova chave com o valor (7).
+
+ Ler quantos elementos tem no vetor: num.length
+
+ Colocar todos os elementos em ordem crescente: num.sort()
+
+ Encontrar o valor no vetor: num.indexOf(7)
+ 

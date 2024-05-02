@@ -1,0 +1,19 @@
+Repetições:
+
+ while(enquanto): Ele vai fazer o teste e depois será executado n vezes enquanto ele ser 
+ verdadeiro, a partir domomento que ele deixa de ser verdadeiro e passa a ser falso ele
+ vai encerrar.
+
+ while(condição){
+    
+ }
+
+ do while: Ele fará o contrário do while, primeiro ele vai executar e depois será testado.
+
+ do{
+
+ } while(condição)
+
+ for (inicio; teste; incremento){
+    
+ }

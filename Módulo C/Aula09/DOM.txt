@@ -1,0 +1,23 @@
+DOM -> Document Object Model
+
+ - Conjunto de objetos dentro do navegador que dará acesso aos componentes internos da web
+
+Árvore DOM
+
+ window -> Loation, document, history
+ document -> html -> head, body
+ head -> meta, title
+ body -> h1, p1, p2, div
+ p2 -> strong
+
+Selecionado
+
+ por Marca -> getElementsByTagName()
+
+ por ID -> getElementsById()
+
+ por Nome -> getElementsByName()
+
+ por Classe -> getElementsByClassName()
+
+ por Seletor -> querySelector(), querySelectorAll()

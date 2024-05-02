@@ -1,0 +1,75 @@
+Sequências
+ 
+ Comando 1: var n = 3
+
+ Comando 2: n += 2
+
+ Comando 3: window.alert(n)
+
+==========================================================================================
+
+Condições
+ 
+ if (condição){
+        true
+
+ } else{
+        false
+
+ }
+
+==========================================================================================
+
+Tipos de Condição
+
+ Condição simples: Quando só existe a condição verdadeira
+
+ if(condição){
+    true
+ }
+
+ Condição composta: Quando houver mais de uma condição como verdadeira e false
+
+ if (condição){
+        true
+
+ } else{
+        false
+
+ }
+
+==========================================================================================
+
+Condições Aninhadas
+
+ if (cond1){
+       bloco1
+ } else {
+       if (cond2){
+              bloco2
+       } else{
+              bloco3
+       }
+ }
+
+==========================================================================================
+
+Condições Multiplas
+
+ switch (expressão){
+       case valor 1:
+       break
+
+       case valor 2:
+       breakS
+
+       case valor 3:
+       break
+
+       default
+       break
+ }
+
+ Exemplo: Substitui a 'espressão' para valor 2, o código automaticamente vai ser direcionado
+          para o valor 2 e roda o código que está nele e no fim o break será ativado e encerrando
+          o código.
